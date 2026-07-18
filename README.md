@@ -48,8 +48,3 @@ Aqui estão algumas das principais referências utilizadas no NotebookLM:
 2. Explore as fontes listadas.  
 3. Use os prompts reutilizáveis para revisar o conteúdo com IA.  
 4. Aplique os conceitos em debates, redações ou estudos filosóficos.  
-
----
-
-## ✨ Autor
-Projeto desenvolvido por **Lucas** como parte do desafio da DIO.  
